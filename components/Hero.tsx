@@ -60,7 +60,7 @@ const Hero: React.FC = () => {
             <div className="relative rounded-3xl overflow-hidden border border-white/10 shadow-2xl shadow-black/50 bg-gray-800/50 backdrop-blur-sm group">
                 <div className="absolute inset-0 bg-gradient-to-tr from-virtuos-green/10 to-transparent opacity-50 group-hover:opacity-75 transition-opacity"></div>
                 <img 
-                    src="https://picsum.photos/id/445/800/600" 
+                    src="Jeu_v2 (1).jpg" 
                     alt="Virtuos Game Board Mockup" 
                     className="w-full h-auto object-cover opacity-90 hover:scale-105 transition-transform duration-700"
                 />
